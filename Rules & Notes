@@ -1,0 +1,13 @@
+Age Groups:
+1. 13-16
+2. 17-21
+3. 22-30
+4. 31-40
+5. 41-50
+6. 51+
+
+To determine how many points someone gets in the age category:
+- If in same category: 30
+- If in adjecent category: 10
+- If not in same or adjecent category: DO NOT PAIR
+
